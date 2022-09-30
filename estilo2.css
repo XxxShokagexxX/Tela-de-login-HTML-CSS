@@ -48,12 +48,8 @@ input.senha{
 }
 
 input.submit{
-
-	
 	height: 45px;
 	width: 90%;
-
-	
 	background: linear-gradient(to bottom, #0BCDFF,#840C8C);
 	padding: 5px 20px;
 	margin-top: 10px;
